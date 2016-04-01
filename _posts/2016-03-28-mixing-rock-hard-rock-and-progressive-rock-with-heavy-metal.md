@@ -1,30 +1,45 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: 'Mixing rock, hard rock and progressive rock with heavy metal and power metal influences, Daydream XI is a band with no self-imposed boundaries.'
-datePublished: '2016-03-28T04:08:54.537Z'
-dateModified: '2016-03-28T04:08:53.830Z'
+description: 'http://www.pledgemusic.com/projects/daydreamxi'
+datePublished: '2016-04-01T00:44:45.304Z'
+dateModified: '2016-04-01T00:44:43.820Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-28-mixing-rock-hard-rock-and-progressive-rock-with-heavy-metal.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-28-mixing-rock-hard-rock-and-progressive-rock-with-heavy-metal.md
-published: true
-url: mixing-rock-hard-rock-and-progressive-rock-with-heavy-metal/index.html
-_type: Article
+_type: Blurb
 
 ---
-Mixing rock, hard rock and progressive rock with heavy metal and power metal influences, Daydream XI is a band with no self-imposed boundaries.
+[http://www.pledgemusic.com/projects/daydreamxi][0]
 
-Formed in 2008 the quartet have played with bands like Angra, Symphony X and the former Iron Maiden vocalist, Paul Di'Anno. In 2014 Daydream XI was invited by legendary drummer Mike Portnoy to perform on the 1st edition of Progressive Nation at Sea with bands like Transatlantic, Devin Townsend, Pain Of Salvation, Animals As Leaders, Anathema, Jon Anderson, King's X and many other leading names in progressive music.
+[http://www.noecho.net/lists/5-prog-bands-that-should-still-exist-by-marcelo-pereira-daydream-xi][1]
 
-The band's debut album was produced by Jens Bogren, head of the world-class Fascination Street studio, in Orëbro, Sweden, released on September 27th, 2014, via POWER PROG. It has received many great reviews all over the globe, placing the band as one of the most promising names in Progressive Metal in South America.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c349607-d320-4a84-abc5-e66b5108ac52.jpg)
+[http://www.metalsucks.net/2016/03/29/completely-unreadable-band-logo-week-win-autographed-limited-edition-poster-daydream-xi/][2]
+
+[http://whiplash.net/materias/news\_793/240812-daydreamxi.html][3]
+
+[http://puregrainaudio.com/audio/daydream-xi-keeping-the-dream-alive-exclusive-free-song-download][4]
+
+[http://www.metalinsider.net/video/daydream-xi-to-release-new-album-launch-crowdfunding-campaign][5]
+
+[https://www.youtube.com/watch?v=qS4o3QS0byo][6]
+
+[0]: http://www.pledgemusic.com/projects/daydreamxi
+[1]: http://www.noecho.net/lists/5-prog-bands-that-should-still-exist-by-marcelo-pereira-daydream-xi
+[2]: http://www.metalsucks.net/2016/03/29/completely-unreadable-band-logo-week-win-autographed-limited-edition-poster-daydream-xi/
+[3]: http://whiplash.net/materias/news_793/240812-daydreamxi.html
+[4]: http://puregrainaudio.com/audio/daydream-xi-keeping-the-dream-alive-exclusive-free-song-download
+[5]: http://www.metalinsider.net/video/daydream-xi-to-release-new-album-launch-crowdfunding-campaign
+[6]: https://www.youtube.com/watch?v=qS4o3QS0byo
